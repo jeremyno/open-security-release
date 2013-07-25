@@ -1,4 +1,4 @@
 open-security-release
 =====================
 
-Release Repo
+This repo contains release wars for open-security until a long term solution is built.
